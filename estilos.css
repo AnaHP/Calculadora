@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Chewy', cursive;
+    background-color: black;
+}
+.texto{
+    width: 100%;
+    height: 133px;
+    
+}
+.texto p{
+    color: white;
+    text-align: right;
+    line-height: 100px;
+    font-size: 3em;
+}
+.Col1{
+    background-color: gray;
+    color: white;
+    width: 25%;
+    border: blue;
+}
+.operacion{
+    background-color:deepskyblue;
+    color: white;
+    width: 25%;
+}
+#mas{
+    height: 170px;
+    position: absolute;
+}
+.igual{
+    background-color:orange;
+    color: white;
+    width: 50.5%;
+}
+.c{
+    background-color:red;
+    color: white;
+    width: 25%;
+}
+.botones button{
+    height: 85px;
+    margin-right: -4;
+    border: 1px;
+    font-size: 1.7em;
+    outline: none;
+}
+.numero{
+    background-color: lightgray; 
+    width: 25%;
+}
